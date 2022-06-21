@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-### I'm a humble student of Computer Engineering of Università di PisaS
+### I'm a humble student of Computer Engineering of Università di Pisa
 ### My Lil contributions to the cause : 
   [Flashcards Basi Di Dati (Unipi)](https://app.studysmarter.de/studysets/9009615?ref=ZyVjr0usps1CHlFRGd5rScNazLBZ0pCM)
   
